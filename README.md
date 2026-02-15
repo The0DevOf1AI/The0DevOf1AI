@@ -1,4 +1,4 @@
-i ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hasan Fuad Berjawi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hasan Fuad Berjawi
 ===========================================================================================================================================
 
 AI\\Geospatial Engineer
@@ -32,8 +32,6 @@ src="https://img.shields.io/github/followers/The0DevOf1AI?logo=github&style=for-
 <a href="http://www.github.com/The0DevOf1AI"><img src="https://github-readme-stats.vercel.app/api?username=The0DevOf1AI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="The0DevOf1AI's GitHub stats" /></a>
 
 <a href="http://www.github.com/The0DevOf1AI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=The0DevOf1AI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/The0DevOf1AI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The0DevOf1AI&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
